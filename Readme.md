@@ -1,4 +1,6 @@
 ## C-Obj
+
+### DESATUALIZADO!!!!!!!!!!!!!!!!!! (Novo Readme em breve)
 ### A Generic Object Handling Library in C
 
 ```C
