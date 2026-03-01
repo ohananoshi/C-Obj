@@ -10,7 +10,7 @@
 
 #define LIST_ID 52
 
-#define list_start {{NULL, 0}, NULL}
+#define list_init {{NULL, 0}, NULL}
 
 typedef struct list_t{
     c_obj_t obj;
