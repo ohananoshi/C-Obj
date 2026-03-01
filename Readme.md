@@ -200,7 +200,7 @@ uint8_t add_maps(att_map_t* dst, ...);
 ```
 
 ### Building your own custom type
-C-Obj works like a design pattern where you decorate your base function with standard wrapplers.
+C-Obj works like a design pattern where you decorate your base function with standard wrappers.
 
 ```
 header file: person.h
